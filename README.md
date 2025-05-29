@@ -7,7 +7,7 @@ An automated trading bot that uses machine learning and technical analysis to ge
 - **Market Data Collection**: Fetches real-time and historical market data from multiple sources
 - **Feature Engineering**: Generates technical indicators and price-based features
 - **Data Preprocessing**: Cleans and prepares data for model training
-- **Model Prediction**: Uses XGBoost to predict market movements
+- **Model Prediction**: Uses LSTM/XGBoost to predict market movements
 - **Signal Generation**: Generates trading signals based on model predictions
 - **Risk Management**: Implements position sizing, stop losses, and risk limits
 - **Order Execution**: Places and manages orders through AngelOne
