@@ -1,6 +1,6 @@
 # Trading Bot
 
-An automated trading bot that uses machine learning and technical analysis to generate trading signals and execute trades through the AngelOne broker.
+An automated trading bot that uses machine learning and technical analysis to generate trading signals.
 
 ## Features
 
